@@ -39,6 +39,56 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
 <br>
 <br>
 
+## 📝 Personal Projects
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Pokemon Liz</h3>
+        <br />
+        <a target="_blank" href="http://travelara.herokuapp.com">
+            <img src="images/gif1.gif" width="100%" alt="Pokemon Liz"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="http://travelara.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Ruby, Project Management & Collaboration</strong> - A game built for my wife's 30th birthday. Utilising ruby code and the PE backbone library, stands out as an example piece of large scale project work to a timeline.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">DnD Initiative Tracker & Lookup API</h3>
+        <br />
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, API, React</strong> - Over a game of DnD, the DM of one of our sessions mentioned how difficult it was to keep track of initiative & turns during combat... So I created a tracker for him!</p>
+    </td>
+  </tr>
+  </tr>
+</table>
+
+
+
+<br>
+<br>
+
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
