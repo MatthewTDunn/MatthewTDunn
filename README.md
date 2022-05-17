@@ -59,12 +59,12 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a> -->
       </p>
-        <p><strong>Ruby, Project Management & Collaboration</strong> - A game built for my wife's 30th birthday. Utilising ruby code and the PE library as a backbone, this project stands out as an example of large scale & collaborative work.</p>
+        <p><strong>Ruby, Project Management & Collaboration</strong> - A game I built for my wife's 30th birthday. Utilising ruby code and the PE library as a backbone, this project stands out as an example of medium scale & collaborative work.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">DnD Initiative Tracker & Lookup API</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="#">
             <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/DnDimg.jpg" width="100%"  alt="DND Initiative Tracker"/>
         </a>
         <br />
