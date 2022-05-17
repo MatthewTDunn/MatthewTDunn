@@ -1,4 +1,4 @@
-[![Matt's GitHub Banner](./assets/CoverPicture.jpg)](https://MatthewDunn.dev)
+[![Matt's GitHub Banner](https://github.com/Pyr1te/Pyr1te/blob/main/assets/coverPicture.JPG)](https://MatthewDunn.dev)
 
 [![Visits Badge](https://badges.pufler.dev/visits/pyr1te/pyr1te)](https://MatthewDunn.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Pyrite____)
