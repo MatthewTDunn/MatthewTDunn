@@ -22,8 +22,8 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
 
 <br>
 
-<a href="https://github.com/Pyr1te/SaaS-Example-BV-PC-Parse-Script">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=SaaS-Example-BV-PC-Parse-Script&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Pyr1te/Pokemon-Liz">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=Pokemon-Liz&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -58,13 +58,13 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
     <td width="50%" valign="top">
       <h3 align="center">Pokemon Liz</h3>
         <br />
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://github.com/Pyr1te/Pokemon-Liz">
             <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/pokemonLiz.jpg" width="100%" alt="Pokemon Liz"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/Pyr1te/Pokemon-Liz" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
 <!--   <a href="#" target="_blank">
