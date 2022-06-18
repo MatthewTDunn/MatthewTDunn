@@ -74,10 +74,10 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
         <p><strong>Ruby, Project Management & Collaboration</strong> - A game I built for my wife's 30th birthday. Utilising ruby code and the PE library as a backbone, this project stands out as an example of medium scale & collaborative work.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">DnD Initiative Tracker & Lookup API</h3>
+      <h3 align="center">DM Dashboard</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/DnDimg.jpg" width="100%"  alt="DND Initiative Tracker"/>
+            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/DnDimg.jpg" width="100%"  alt="DM Dashboard"/>
         </a>
         <br />
         <p align="center">
@@ -89,7 +89,7 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
   </a>
       </p>
-        <p><strong>Javascript, API, React</strong> - Over a game of DnD, the DM of one of our sessions mentioned how difficult it was to keep track of initiative & turns during combat... So I created a tracker for him!</p>
+        <p><strong>Javascript, Local Storage</strong> - Over a game of DnD, the DM of one of our sessions mentioned how difficult it was to keep track of initiative & turns during combat... So I created a tracker for him!</p>
     </td>
   </tr>
   </tr>
