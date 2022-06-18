@@ -89,7 +89,7 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
   </a>
       </p>
-        <p><strong>Javascript, Local Storage</strong> - Over a game of DnD, the DM of one of our sessions mentioned how difficult it was to keep track of initiative & turns during combat... So I created a tracker for him!</p>
+        <p><strong>Javascript, Local Storage</strong> - Over a game of DnD, the dungeon master (DM) of one of our sessions mentioned how difficult it was to keep track of initiative & turns during combat... So I created a tracker for him!</p>
     </td>
   </tr>
   </tr>
