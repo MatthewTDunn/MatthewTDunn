@@ -28,14 +28,14 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
 
 <br>
 
-<a href="https://github.com/Pyr1te/SaaS-Example-Parse-Script">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=SaaS-Example-Parse-Script&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=SaaS-Example-Parsing-Script&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/Pyr1te/SaaS-Example-Parse-Script">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=SaaS-Example-Parse-Script&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=SaaS-Example-Parsing-Script&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
