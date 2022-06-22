@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
 
 <br>
 
-## 📌 Software as a Service (SaaS) Examples & Pinned Repositories
+## 📌 Pinned Repositories
 
 <br>
 
@@ -28,30 +28,86 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
 
 <br>
 
-<a href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=SaaS-Example-Parsing-Script&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+## 💼 Software as a Service (SaaS) Examples
+<br />
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Parsing Scripts</h3>
+        <br />
+        <a target="_blank" href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">
+            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/SaaS-1.jpg" width="100%" alt="Laboratory Parsing Scripts"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+      </p>
+        <p><strong>Python, FS & Data Handling</strong> - Manual handling of data from analytical instrumentation can be slow and prone to human error. Allow me to automate the process for you and create a script that collates data into an easy to handle format or send the data directly into your LIMS.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">QA/QC Monitoring</h3>
+        <br />
+      <a target="_blank" href="#">
+            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/SaaS-2.jpg" width="100%"  alt="QA/QC"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>MERN, Full Stack</strong> - In science, quality is king! Unfortunately however, we often find that the process of monitoring QA/QC data requires manual review at an instrument level. Allow me to assist with personalised, automated data capture and a system that warns you when tolerance levels are exceeded.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Web Development</h3>
+      <br />
+        <a target="_blank" href="#">
+          <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/SaaS-3.jpg" width="100%" alt="Web Development"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - For small businesses, the concept of web presence and hosting a website can be intimidating. I am happy to personalise a front end website tailored to your requirements and help develop your online presence</p>
+    </td>
+<!--     <td width="50%" valign="top">
+      <h3 align="center"#</h3>
+        <br />
+        <a target="_blank" href="#">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td> -->
+  </tr>
+</table>
 
-<br>
-
-<a href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=SaaS-Example-Parsing-Script&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<!-- 
-<a href="https://github.com/ENTERREPOHERE"> -->
-<!--   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=ENTERREPOHERE&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ENTERREPOHERE"> -->
-<!--   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=ENTERREPOHERE&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
-
-<br>
-<br>
+<br />
 
 ## 📝 Personal Projects
+  <br />
 <table bordercolor="#66b2b2">
   
   <tr>
