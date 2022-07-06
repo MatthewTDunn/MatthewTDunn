@@ -83,11 +83,12 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - For small businesses, the concept of web presence and hosting a website can be intimidating. I am happy to personalise a front end website tailored to your requirements and help develop your online presence</p>
     </td>
-<!--     <td width="50%" valign="top">
-      <h3 align="center"#</h3>
+    <!--
+     <td width="50%" valign="top">
+      <h3 align="center">Salesforce Support</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/salesforce.jpg" width="100%" alt="Salesforce Support"/>
         </a>
         <br />
         <p align="center">
@@ -99,8 +100,8 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
-    </td> -->
+        <p><strong>APEX, CRM Management -</strong> With significant </p>
+    </td> --!>
   </tr>
 </table>
 
