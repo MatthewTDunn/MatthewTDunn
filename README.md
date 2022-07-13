@@ -90,13 +90,15 @@ Want to know more about me? [Check out my portfolio.](https://MatthewDunn.dev)
         </a>
         <br />
         <p align="center">
-          
+   
+   <!-- 
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
+  --!>
       </p>
         <p><strong>CRM Administration, APEX App development -</strong> Significant experience in CRM use and customisation. I am capable of providing APEX application, org restructuring and refining workflows support. Also familiar and equally capable with Microsoft Dynamics 365 CRM</p>
     </td> 
