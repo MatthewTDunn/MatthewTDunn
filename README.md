@@ -90,10 +90,7 @@ Always happy to have a chat to discuss project requirements, please feel free to
         </a>
       <br />
         <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
+  <a href="https://trailblazer.me/id/dunn0139" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
