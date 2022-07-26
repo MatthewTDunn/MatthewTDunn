@@ -1,4 +1,4 @@
-[![Matt's GitHub Banner](https://github.com/Pyr1te/Pyr1te/blob/main/assets/coverPicture.JPG)](https://MatthewDunn.dev)
+[![Matt's GitHub Banner](https://github.com/Pyr1te/Pyr1te/blob/main/assets/coverPicture.jpg)](https://MatthewDunn.dev)
 
 [Link to badge repo]: <https://github.com/alexandresanlim/Badges4-README.md-Profile>
 
