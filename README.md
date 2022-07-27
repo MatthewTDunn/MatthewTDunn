@@ -13,7 +13,7 @@ Howdy 👋
 
 I’m Matt (a.k.a Pyrite), a freelance software developer & technical consultant based in Adelaide Australia! With over a decade of experience in data management and technical consultation within a plethora of scientific industries - I have been able to blend my passion for full-stack software development with my scientific background to provide my clients with innovative, lean data handling & software driven solutions. 
 
-Always happy to have a chat to discuss project requirements, please feel free to reach out on my GitHub or via email at dunn0139@gmail.com
+Always happy to have a chat and provide support wherever it may be needed! Feel free to shoot me a message on my GitHub, on any of my socials or via email at dunn0139@gmail.com
 
 <br>
 
