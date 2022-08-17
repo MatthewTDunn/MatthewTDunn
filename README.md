@@ -14,7 +14,15 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
 
 Always happy to have a chat and provide support wherever it may be needed! Feel free to shoot me a message on my GitHub, on any of my socials or via email at dunn0139@gmail.com
 
-<br>
+- Top 6% global CodeWars challenge programmer (https://www.codewars.com/users/Pyr1te)
+- Python
+- Javascript
+- MERN Stack
+- Salesforce Administrator Certified
+- CRM/LIMS specialist
+- Ruby
+- SQL
+
 
 ## 📌 Pinned Repositories
 
