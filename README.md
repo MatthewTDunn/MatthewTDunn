@@ -44,7 +44,9 @@ Always happy to have a chat and provide support wherever it may be needed! Feel 
   <tr>
     <td width="100%" valign="top">
     <br>
-      <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/AnalysisAssistantLogo.JPG" width="100%" alt="Analysis Assistant Logo"/>
+      <a href="https://github.com/Pyr1te/Analysis-Assistant">
+        <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/AnalysisAssistantLogo.JPG" width="100%" alt="Analysis Assistant Logo"/>
+      </a>
       <br>
       <h3 align="center">Analysis Assistant: Making Analytical Chemistry Easy</h3>
       <br>
