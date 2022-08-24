@@ -37,6 +37,31 @@ Always happy to have a chat and provide support wherever it may be needed! Feel 
 <br>
 <br>
 
+## WIP Projects
+<br>
+
+<table bordercolor = "#66b2b2">
+  <tr>
+    <td width="100%" valign="top">
+    <br>
+      <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/AnalysisAssistantLogo.JPG" width="100%" alt="Analysis Assistant Logo"/>
+      <br>
+      <h3 align="center">Analysis Assistant: Making Analytical Chemistry Easy</h3>
+      <br>
+      <p>MERN Full stack web application to provide support to analytical chemistry lay-men & engineers in the sourcing of elemental analysis services, their detection limits & costs. Designed as a cost saving tool by comparing analytical service providers for users who may currently be outsourcing their analysis requirements or people looking to see what information they can get from their samples.</p>
+      <br>
+      <span>Release v1.0 - September 17, 2022</span>
+      <span>Encompassing Common Analytical Requirements From:</span>
+      <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Tribology">Tribology</a>
+        <li><a href="https://en.wikipedia.org/wiki/Geology">Geological Exploration</a>
+        <li><a href="https://en.wikipedia.org/wiki/Analysis_of_water_chemistry">Basic Water QA</a>
+        <li><a href="https://www.chemistryworld.com/features/a-taste-of-wine-chemistry/3009718.article">Wine QA/QC</a>
+      </ul>
+</table>
+
+
+
 ## 💼 Software as a Service (SaaS) Examples
 <br />
 <table bordercolor="#66b2b2">
@@ -70,7 +95,7 @@ Always happy to have a chat and provide support wherever it may be needed! Feel 
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>MERN, Full Stack</strong> - In science, quality is king! Unfortunately however, we often find that the process of monitoring QA/QC data requires manual review at an instrument level. Allow me to assist with personalised, automated data capture and a system that warns you when tolerance levels are exceeded.</p>
+        <p><strong>Python, Chart.JS</strong> - In science, quality is king! Unfortunately however, we often find that the process of monitoring QA/QC data requires manual review at an instrument level. Allow me to assist with personalised, automated data capture and a system that warns you when tolerance levels are exceeded.</p>
     </td>
   </tr>
   
