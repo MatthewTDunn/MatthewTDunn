@@ -27,8 +27,8 @@ Always happy to have a chat and provide support wherever it may be needed! Feel 
 ## 📌 Pinned Repositories
 
 <br>
-<a href="https://github.com/Pyr1te/Codewars">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=CodeWars&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Pyr1te/Daily-Coding-Challenges">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=Daily-Coding-Challenges&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <!---
