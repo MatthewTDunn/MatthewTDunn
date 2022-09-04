@@ -16,7 +16,7 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
 <ul>
   <li> 🎖 Top 6% global <a href="https://www.codewars.com/users/Pyr1te">CodeWars</a> challenge programmer</li>
   <li> 📖 Salesforce CRM Administrator <a href="https://trailblazer.me/id/dunn0139">Certified</a></li>
-  <li> 🌱 Currently learning C# & working towards AWS Cloud Practitioner certification</li>
+  <li> 🌱 Currently working towards AWS Cloud Practitioner certification</li>
   <li> 💬 Ask me about Javascript, Python, HTML, CSS, Node.js
   <li> 🎼 Always looking for song suggestions to code along to! Shoot me some recommendations or <a href="https://youtube.com/playlist?list=PLAclWGt0dVq-s94VbHeKJY50zfd93oq75">listen</a> to my 22' mix :)</li>
 </ul>
