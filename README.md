@@ -56,7 +56,12 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
      <td width="60%" valign="right">
       <h3 align="center">Analysis Assistant</h3>
       <h5 align="center">Making Analytical Chemistry Easy</h5>
-      <br>
+      <p align="center">
+        <a href="https://github.com/Pyr1te/Analysis-Assistant">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+      </p>
       <p>MERN Full stack web application to provide support to analytical chemistry lay-men & engineers in the sourcing of elemental analysis services, their detection limits & costs.</p>
   </tr>
       <td width="40%" valign="left">
@@ -66,7 +71,11 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
         </a>
   <td width="60%" valign="right">
       <h3 align="center">Pokemon Liz</h3>
-      <br>
+      <p align="center">
+        <a target="_blank" href="https://github.com/Pyr1te/Pokemon-Liz">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+      </p>
       <p>A game I built for my wife's 30th birthday. Utilising ruby code and the PE library as a backbone, this project stands out as an example of medium scale & collaborative work.</p>
   </tr>
   <td width="40%" valign="left">
@@ -76,7 +85,10 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
         </a>
   <td width="60%" valign="right">
       <h3 align="center">DM Dashboard</h3>
-      <br>
+      <p align="center">
+      <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+      </p>
       <p><strong>Javascript, Local Storage</strong> - Over a game of DnD, the dungeon master (DM) of one of our sessions mentioned how difficult it was to keep track of initiative & turns during combat... So I created a tracker for him!</p>
     </tr>
   <td width="40%" valign="left">
@@ -86,7 +98,11 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
         </a>
   <td width="60%" valign="right">
       <h3 align="center">SaaS Parsing Scripts</h3>
-      <br>
+      <p align="center">
+        <a target="_blank" href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+      </p>
       <p><strong>Python, FS & Data Handling</strong> - Manual handling of data from analytical instrumentation can be slow and prone to human error. Allow me to automate the process for you and create a script that collates data into an easy to handle format or send the data directly into your LIMS.</p>  
 </table>
 
