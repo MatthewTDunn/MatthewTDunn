@@ -12,20 +12,17 @@
 
 Howdy 👋
 
-I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in Adelaide Australia! With over a decade of experience in data management and technical consultation within a plethora of scientific industries - I have been able to blend my passion for full-stack software development with my scientific background to provide my clients with innovative, lean data handling & software driven solutions. 
+I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in Adelaide Australia! With over a decade of experience in data management and technical consultation within a plethora of scientific industries, I'm always happy to provide innovative, data handling & software driven solutions to our local businesses & non-for profit organisations. 
 
-Always happy to have a chat and provide support wherever it may be needed! Feel free to shoot me a message on my GitHub, on any of my socials or via email at dunn0139@gmail.com
+- Top 6% global <a href="https://www.codewars.com/users/Pyr1te">CodeWars</a> challenge programmer
+- Salesforce CRM Administrator <a href="https://trailblazer.me/id/dunn0139">Certified</a>
+- 🌱 Currently learning C# & working towards AWS Cloud Practitioner certification
+- 🎼 Always looking for song suggestions to code along to! Shoot me some recommendations or <a href="https://youtube.com/playlist?list=PLAclWGt0dVq-s94VbHeKJY50zfd93oq75">listen</a> to my 22' mix :)
+<br>
 
-- Top 6% global CodeWars challenge programmer (https://www.codewars.com/users/Pyr1te)
-- Python
-- Javascript
-- MERN Stack
-- Salesforce Administrator Certified
-- CRM/LIMS specialist
-- Ruby
-- SQL
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyr1te&layout=compact&theme=github_dark)](https://github.com/Pyr1te/github-readme-stats)
+<br>
+<br>
 ## 📌 Pinned Repositories
 
 <br>
@@ -43,178 +40,57 @@ Always happy to have a chat and provide support wherever it may be needed! Feel 
 
 <br>
 <br>
-<br>
 
-## WIP Projects
+## Some Personal Projects
 <br>
 
 <table bordercolor = "#66b2b2">
   <tr>
-    <td width="100%" valign="top">
+    <td width="40%" valign="left">
     <br>
       <a href="https://github.com/Pyr1te/Analysis-Assistant">
-        <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/AnalysisAssistantLogo.JPG" width="100%" alt="Analysis Assistant Logo"/>
+        <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/AnalysisAssistantLogo.jpg" width="100%" alt="Analysis Assistant Logo"/>
       </a>
+     <td width="60%" valign="right">
+      <h3 align="center">Analysis Assistant</h3>
+      <h5 align="center">Making Analytical Chemistry Easy</h5>
       <br>
-      <h3 align="center">Analysis Assistant: Making Analytical Chemistry Easy</h3>
-      <br>
-      <p>MERN Full stack web application to provide support to analytical chemistry lay-men & engineers in the sourcing of elemental analysis services, their detection limits & costs. Designed as a cost saving tool by comparing analytical service providers for users who may currently be outsourcing their analysis requirements or people looking to see what information they can get from their samples.</p>
-      <br>
-      <span>Release v1.0 - September 17, 2022</span>
-      <span>Encompassing Common Analytical Requirements From:</span>
-      <ul>
-        <li><a href="https://en.wikipedia.org/wiki/Tribology">Tribology</a>
-        <li><a href="https://en.wikipedia.org/wiki/Geology">Geological Exploration</a>
-        <li><a href="https://en.wikipedia.org/wiki/Analysis_of_water_chemistry">Basic Water QA</a>
-        <li><a href="https://www.chemistryworld.com/features/a-taste-of-wine-chemistry/3009718.article">Wine QA/QC</a>
-      </ul>
-</table>
-
-
-
-## 💼 Software as a Service (SaaS) Examples
-<br />
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Parsing Scripts</h3>
-        <br />
-        <a target="_blank" href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">
-            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/SaaS-1.jpg" width="100%" alt="Laboratory Parsing Scripts"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-      </p>
-        <p><strong>Python, FS & Data Handling</strong> - Manual handling of data from analytical instrumentation can be slow and prone to human error. Allow me to automate the process for you and create a script that collates data into an easy to handle format or send the data directly into your LIMS.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">QA/QC Monitoring</h3>
-        <br />
-      <a target="_blank" href="#">
-            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/SaaS-2.jpg" width="100%"  alt="QA/QC"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Python, Chart.JS</strong> - In science, quality is king! Unfortunately however, we often find that the process of monitoring QA/QC data requires manual review at an instrument level. Allow me to assist with personalised, automated data capture and a system that warns you when tolerance levels are exceeded.</p>
-    </td>
+      <p>MERN Full stack web application to provide support to analytical chemistry lay-men & engineers in the sourcing of elemental analysis services, their detection limits & costs.</p>
   </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Web Development</h3>
-      <br />
-        <a target="_blank" href="#">
-          <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/SaaS-3.jpg" width="100%" alt="Web Development"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - For small businesses, the concept of web presence and hosting a website can be intimidating. I am happy to personalise a front end website tailored to your requirements and help develop your online presence</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Salesforce Support</h3>
-      <br />
-        <a target="_blank" href="https://github.com/Pyr1te/CRM-Development-Salesforce">
-          <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/SaaS-4.jpg" width="100%" alt="Web Development"/>
-        </a>
-      <br />
-        <p align="center">
-          <a href="https://github.com/Pyr1te/CRM-Development-Salesforce" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://trailblazer.me/id/dunn0139" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>CRM Administration, APEX App development</strong> - Significant experience in CRM use and customisation. I am capable of providing APEX application, org restructuring and refining workflows support. Also familiar and equally capable with Microsoft Dynamics 365 CRM</p>
-    </td>
-     
-  </tr>
-</table>
-
-<br />
-
-## 📝 Personal Projects
-  <br />
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Pokemon Liz</h3>
-        <br />
-        <a target="_blank" href="https://github.com/Pyr1te/Pokemon-Liz">
+      <td width="40%" valign="left">
+      <br>
+       <a target="_blank" href="https://github.com/Pyr1te/Pokemon-Liz">
             <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/pokemonLiz.jpg" width="100%" alt="Pokemon Liz"/>
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Pyr1te/Pokemon-Liz" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-<!--   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
-      </p>
-        <p><strong>Ruby, Project Management & Collaboration</strong> - A game I built for my wife's 30th birthday. Utilising ruby code and the PE library as a backbone, this project stands out as an example of medium scale & collaborative work.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">DM Dashboard</h3>
-        <br />
-      <a target="_blank" href="#">
-            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/DnDimg.jpg" width="100%"  alt="DM Dashboard"/>
+  <td width="60%" valign="right">
+      <h3 align="center">Pokemon Liz</h3>
+      <br>
+      <p>A game I built for my wife's 30th birthday. Utilising ruby code and the PE library as a backbone, this project stands out as an example of medium scale & collaborative work.</p>
+  </tr>
+  <td width="40%" valign="left">
+      <br>
+       <a target="_blank" href="https://github.com/Pyr1te/Pyr1te/blob/main/assets/DnDimg.jpg">
+            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/DnDimg.jpg" width="100%" alt="DM Dashboard"/>
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-<!--   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
-  </a>
-      </p>
-        <p><strong>Javascript, Local Storage</strong> - Over a game of DnD, the dungeon master (DM) of one of our sessions mentioned how difficult it was to keep track of initiative & turns during combat... So I created a tracker for him!</p>
-    </td>
-  </tr>
-  </tr>
+  <td width="60%" valign="right">
+      <h3 align="center">DM Dashboard</h3>
+      <br>
+      <p><strong>Javascript, Local Storage</strong> - Over a game of DnD, the dungeon master (DM) of one of our sessions mentioned how difficult it was to keep track of initiative & turns during combat... So I created a tracker for him!</p>
+    </tr>
+  <td width="40%" valign="left">
+      <br>
+       <a target="_blank" href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">
+            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/SaaS-1.jpg" width="100%" alt="SaaS Parsing Scripts"/>
+        </a>
+  <td width="60%" valign="right">
+      <h3 align="center">SaaS Parsing Scripts</h3>
+      <br>
+      <p><strong>Python, FS & Data Handling</strong> - Manual handling of data from analytical instrumentation can be slow and prone to human error. Allow me to automate the process for you and create a script that collates data into an easy to handle format or send the data directly into your LIMS.</p>  
 </table>
 
 
-
-<br>
 <br>
 
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/pyr1te">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyr1te&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/pyr1te">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=pyr1te&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Matt's GitHub Stats" />
-</a>
-
-<br>
-<br>
 
 ## 💼 Toolbelt
 <br>
