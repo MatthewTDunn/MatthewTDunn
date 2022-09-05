@@ -54,12 +54,12 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
         <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/AnalysisAssistantLogo.jpg" width="100%" alt="Analysis Assistant Logo"/>
       </a>
      <td width="60%" valign="right">
-      <h3 align="center">Analysis Assistant</h3>
+      <h3 align="center"><a href="https://github.com/Pyr1te/Analysis-Assistant">Analysis Assistant</a></h3>
       <h5 align="center">Making Analytical Chemistry Easy</h5>
       <p align="center">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+        <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+        <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+        <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> </a>
       </p>
       <p>MERN Full stack web application to provide support to analytical chemistry lay-men & engineers in the sourcing of elemental analysis services, their detection limits & costs.</p>
   </tr>
@@ -69,9 +69,9 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
             <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/pokemonLiz.jpg" width="100%" alt="Pokemon Liz"/>
         </a>
   <td width="60%" valign="right">
-      <h3 align="center">Pokemon Liz</h3>
+      <h3 align="center"><a href="https://github.com/Pyr1te/Pokemon-Liz">Pokemon Liz</a></h3>
       <p align="center">
-        <a target="_blank" href="https://github.com/Pyr1te/Pokemon-Liz">
+        <a target="_blank" href="https://www.ruby-lang.org/en/">
           <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
         </a>
       </p>
@@ -95,9 +95,9 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
             <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/SaaS-1.jpg" width="100%" alt="SaaS Parsing Scripts"/>
         </a>
   <td width="60%" valign="right">
-      <h3 align="center">SaaS Parsing Scripts</h3>
+      <h3 align="center"><a href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">SaaS Parsing Scripts</a></h3>
       <p align="center">
-        <a target="_blank" href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">
+        <a target="_blank" href="https://www.python.org/">
           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
         </a>
       </p>
