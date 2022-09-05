@@ -43,7 +43,7 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
 <br>
 <br>
 
-## Some Personal Projects
+## ✏ Some Personal Projects
 <br>
 
 <table bordercolor = "#66b2b2">
