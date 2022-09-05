@@ -84,8 +84,8 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
         </a>
   <td width="60%" valign="right">
       <h3 align="center">DM Dashboard</h3>
+      <br>
       <p align="center">
-      <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
       </p>
       <p><strong>Javascript, Local Storage</strong> - Over a game of DnD, the dungeon master (DM) of one of our sessions mentioned how difficult it was to keep track of initiative & turns during combat... So I created a tracker for him!</p>
     </tr>
