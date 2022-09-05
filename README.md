@@ -98,7 +98,7 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
       <h3 align="center"><a href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">SaaS Parsing Scripts</a></h3>
       <p align="center">
         <a target="_blank" href="https://www.python.org/">
-          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+          <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
         </a>
       </p>
       <p><strong>Python, FS & Data Handling</strong> - Manual handling of data from analytical instrumentation can be slow and prone to human error. Allow me to automate the process for you and create a script that collates data into an easy to handle format or send the data directly into your LIMS.</p>  
