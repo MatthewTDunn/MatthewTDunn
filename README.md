@@ -26,6 +26,7 @@ I’m Matt, a software developer & technical consultant based in Adelaide Austra
 <br>
 <br>
 ## ✏ Some Personal Projects & SaaS Examples
+<br>
 <a target="_blank" href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Language-Python-blue" />
 </a>
