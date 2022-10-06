@@ -12,7 +12,7 @@
 
 Howdy 👋
 
-I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in Adelaide Australia! With over a decade of experience in data management and technical consultation within a plethora of scientific industries, I'm always happy to provide innovative, data handling & software driven solutions to our local businesses & non-for profit organisations. 
+I’m Matt, a software developer & technical consultant based in Adelaide Australia! With over a decade of experience in data management and technical consultation within a plethora of scientific industries, I'm always happy to provide innovative, data handling & software driven solutions to our local businesses & non-for profit organisations. 
 <ul>
   <li> 🎖 Top 6% global <a href="https://www.codewars.com/users/Pyr1te">CodeWars</a> challenge programmer</li>
   <li> 📖 Salesforce CRM Administrator <a href="https://trailblazer.me/id/dunn0139">Certified</a></li>
@@ -25,11 +25,25 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyr1te&layout=compact&theme=github_dark)](https://github.com/Pyr1te/github-readme-stats)
 <br>
 <br>
+## ✏ Some Personal Projects & SaaS Examples
+<a target="_blank" href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Language-Python-blue" />
+</a>
+ - Laboratory Data Management Microservice SaaS <a href=https://github.com/MatthewTDunn/SaaS-Example-Parsing-Script">Example</a>
+<br>
+<a target="_blank" href="https://www.ruby-lang.org/en/">
+  <img src="https://img.shields.io/badge/Language-Ruby-red"/>
+</a>
+ - Game Development <a href="https://github.com/MatthewTDunn/Pokemon-Liz">Example</a> 
+<br>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://img.shields.io/badge/Language-Javascript-yellow" /></a>
+ - CRM API integration <a href="">Example</a>
+
 ## 📌 Pinned Repositories
 
 <br>
 <a href="https://github.com/Pyr1te/Daily-Coding-Challenges">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=Daily-Coding-Challenges&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=Daily-Coding-Challenges&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  />
 </a>
 
 <!--
@@ -39,74 +53,6 @@ I’m Matt (a.k.a Pyrite), a software developer & technical consultant based in 
 </a>
 
 -->
-
-<br>
-<br>
-
-## ✏ Some Personal Projects
-<br>
-
-<table bordercolor = "#66b2b2">
-  <tr>
-    <td width="40%" valign="left">
-    <br>
-      <a href="https://github.com/Pyr1te/Analysis-Assistant">
-        <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/AnalysisAssistantLogo.jpg" width="100%" alt="Analysis Assistant Logo"/>
-      </a>
-     <td width="60%" valign="right">
-      <h3 align="center"><a href="https://github.com/Pyr1te/Analysis-Assistant">Analysis Assistant</a></h3>
-      <h5 align="center">Making Analytical Chemistry Easy</h5>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
-        <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-        <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> </a>
-      </p>
-      <p>MERN Full stack web application to provide support to analytical chemistry lay-men & engineers in the sourcing of elemental analysis services, their detection limits & costs.</p>
-  </tr>
-      <td width="40%" valign="left">
-      <br>
-       <a target="_blank" href="https://github.com/Pyr1te/Pokemon-Liz">
-            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/pokemonLiz.jpg" width="100%" alt="Pokemon Liz"/>
-        </a>
-  <td width="60%" valign="right">
-      <h3 align="center"><a href="https://github.com/Pyr1te/Pokemon-Liz">Pokemon Liz</a></h3>
-      <p align="center">
-        <a target="_blank" href="https://www.ruby-lang.org/en/">
-          <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-        </a>
-      </p>
-      <p>A game I built for my wife's 30th birthday. Utilising ruby code and the PE library as a backbone, this project stands out as an example of medium scale & collaborative work.</p>
-  </tr>
-  <td width="40%" valign="left">
-      <br>
-       <a target="_blank" href="https://github.com/Pyr1te/Pyr1te/blob/main/assets/DnDimg.jpg">
-            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/DnDimg.jpg" width="100%" alt="DM Dashboard"/>
-        </a>
-  <td width="60%" valign="right">
-      <h3 align="center">DM Dashboard</h3>
-      <br>
-      <p align="center">
-      </p>
-      <p><strong>Javascript, Local Storage</strong> - Over a game of DnD, the dungeon master (DM) of one of our sessions mentioned how difficult it was to keep track of initiative & turns during combat... So I created a tracker for him!</p>
-    </tr>
-  <td width="40%" valign="left">
-      <br>
-       <a target="_blank" href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">
-            <img src="https://github.com/Pyr1te/Pyr1te/blob/main/assets/SaaS-1.jpg" width="100%" alt="SaaS Parsing Scripts"/>
-        </a>
-  <td width="60%" valign="right">
-      <h3 align="center"><a href="https://github.com/Pyr1te/SaaS-Example-Parsing-Script">SaaS Parsing Scripts</a></h3>
-      <p align="center">
-        <a target="_blank" href="https://www.python.org/">
-          <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-        </a>
-      </p>
-      <p><strong>Python, FS & Data Handling</strong> - Manual handling of data from analytical instrumentation can be slow and prone to human error. Allow me to automate the process for you and create a script that collates data into an easy to handle format or send the data directly into your LIMS.</p>  
-</table>
-
-
-<br>
-
 
 ## 💼 Toolbelt
 <br>
