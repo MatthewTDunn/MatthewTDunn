@@ -1,4 +1,4 @@
-[![Matt's GitHub Banner](https://github.com/Pyr1te/Pyr1te/blob/main/assets/coverPicture.jpg)](https://MatthewDunn.dev)
+[![Matt's GitHub Banner](https://github.com/MatthewTDunn/MatthewTDunn/blob/main/assets/coverPicture.jpg)](https://MatthewDunn.dev)
 
 [Link to badge repo]: <https://github.com/alexandresanlim/Badges4-README.md-Profile>
 
@@ -22,7 +22,7 @@ I’m Matt, a software developer & technical consultant based in Adelaide Austra
 </ul>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyr1te&layout=compact&theme=github_dark)](https://github.com/Pyr1te/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewTDunn&layout=compact&theme=github_dark)](https://github.com/MatthewTDunn/github-readme-stats)
 <br>
 <br>
 ## ✏ Some Personal Projects & SaaS Examples
@@ -43,8 +43,8 @@ I’m Matt, a software developer & technical consultant based in Adelaide Austra
 ## 📌 Pinned Repositories
 
 <br>
-<a href="https://github.com/Pyr1te/Daily-Coding-Challenges">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pyr1te&repo=Daily-Coding-Challenges&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  />
+<a href="https://github.com/MatthewTDunn/Daily-Coding-Challenges">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MatthewTDunn&repo=Daily-Coding-Challenges&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  />
 </a>
 
 <!--
