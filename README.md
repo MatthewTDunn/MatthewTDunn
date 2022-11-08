@@ -10,7 +10,7 @@
 
 
 
-Howdy 👋      
+Howdy 👋       
 
 I’m Matt, a software engineer & technical consultant based in Adelaide Australia! With over a decade of experience in data management and technical consultation within a plethora of scientific industries, I'm always happy to provide innovative, data handling & software driven solutions to support our local businesses & non-for profit organisations. 
 <ul>
