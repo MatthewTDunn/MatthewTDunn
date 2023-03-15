@@ -14,8 +14,8 @@ Howdy 👋
 
 I’m Matt, a software engineer & technical consultant based in Adelaide Australia! With over a decade of experience in data management and technical consultation within a plethora of scientific industries, I'm always happy to provide innovative, data handling & software driven solutions to support our local businesses & non-for profit organisations. 
 <ul>
-  <li> 🎖 Top 6% global <a href="https://www.codewars.com/users/Pyr1te">CodeWars</a> challenge programmer</li>
-  <li> 📖 Salesforce CRM Administrator <a href="https://trailblazer.me/id/dunn0139">Certified</a></li>
+  <li> 🎖 Top 6% global <a href="https://www.codewars.com/users/MatthewTDunn">CodeWars</a> challenge programmer</li>
+  <li> 📖 Salesforce CRM Administrator <a href="https://trailblazer.me/id/dunn0139">Certified</a> & Microsoft Stack <a href="https://learn.microsoft.com/en-us/users/matthewdunn/transcript/d82npfpkyrw2nr4">Certified</a></li>
   <li> 🌱 Currently working towards AWS Cloud Practitioner certification</li>
   <li> 💬 Ask me about Javascript, HTML, CSS, Node.js, React
   <li> 🎼 Always looking for song suggestions to code along to! Shoot me some recommendations or <a href="https://youtube.com/playlist?list=PLAclWGt0dVq-s94VbHeKJY50zfd93oq75">listen</a> to my 22' mix :)</li>
